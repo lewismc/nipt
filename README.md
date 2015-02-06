@@ -5,7 +5,11 @@ This is a utility directory which I am gradually adding simple scripts to, which
 
 # Scripts
 
-## Nipt
+Current scripts include
+ * bootstrap.sh
+ * watch.sh
+
+## bootstrap.sh
 
 ### Description
 
@@ -29,7 +33,7 @@ In my case this is not a problem. I really don't care. I just want to try and br
 
 I would like to thank @JustinMclean for his help and support during the first ApacheBarCamp2013 in Portland, Oregon. He stood by me whilst I took around 10 minutes to remember that the letter "l" came before "m" in the alphabet. The Malt whisky got to me from the night before.
 
-## watch
+## watch.sh
 
 ### Description
 
